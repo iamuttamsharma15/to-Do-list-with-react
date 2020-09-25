@@ -1,0 +1,31 @@
+body{
+    background-color: #ff9a76;
+}
+.input{
+   margin:30px 0;
+    font-size: 2rem;
+    display:block;
+}.btn {
+    font-size:2rem;
+}
+.main{
+    
+    background-color: #f6f6f6;
+    border:3px solid grey;
+    max-width:700px;
+    margin:auto;
+    
+    display: flex;
+    height:90vh;
+  
+    justify-content: center;
+}
+.title{
+    text-align: center;
+}
+.list{
+   margin-top: 20px;
+}
+li{
+    margin-top:10px;
+}
